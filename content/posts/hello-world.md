@@ -17,4 +17,4 @@ This is a first post, just testing does the git integration works with my old
 domain name. Should be all good, and then I post a cool 2019 recap post in the
 folowing days.
 
-Cheers.
+Cheers!
