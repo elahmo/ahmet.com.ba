@@ -3,11 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ahmet.com.ba/about/</loc>
+    <lastmod>2019-12-31T00:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ahmet.com.ba/</loc>
+    <lastmod>2019-12-31T00:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahmet.com.ba/posts/hello-world/</loc>
+    <lastmod>2019-12-31T00:17:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahmet.com.ba/posts/</loc>
+    <lastmod>2019-12-31T00:17:51+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://ahmet.com.ba/tags/</loc>
+    <lastmod>2019-12-31T00:17:51+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahmet.com.ba/tags/untagged/</loc>
+    <lastmod>2019-12-31T00:17:51+01:00</lastmod>
   </url>
   
 </urlset>

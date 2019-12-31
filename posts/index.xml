@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Ahmet Novalić</title>
+		<link>https://ahmet.com.ba/posts/</link>
+		<description>Recent content in Posts on Ahmet Novalić</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Tue, 31 Dec 2019 00:17:51 +0100</lastBuildDate>
+		<atom:link href="https://ahmet.com.ba/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Hello World</title>
+			<link>https://ahmet.com.ba/posts/hello-world/</link>
+			<pubDate>Tue, 31 Dec 2019 00:17:51 +0100</pubDate>
+			
+			<guid>https://ahmet.com.ba/posts/hello-world/</guid>
+			<description>Hello Hey,
+This is a first post, just testing does the git integration works with my old domain name. Should be all good, and then I post a cool 2019 recap post in the folowing days.
+Cheers!</description>
+			<content type="html"><![CDATA[<h1 id="hello">Hello</h1>
+<p>Hey,</p>
+<p>This is a first post, just testing does the git integration works with my old
+domain name. Should be all good, and then I post a cool 2019 recap post in the
+folowing days.</p>
+<p>Cheers!</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
