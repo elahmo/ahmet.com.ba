@@ -17,12 +17,14 @@
 			<guid>https://ahmet.com.ba/posts/hello-world/</guid>
 			<description>Hello Hey,
 This is a first post, just testing does the git integration works with my old domain name. Should be all good, and then I post a cool 2019 recap post in the folowing days.
+One final test for the flow and good night for tonight!
 Cheers!</description>
 			<content type="html"><![CDATA[<h1 id="hello">Hello</h1>
 <p>Hey,</p>
 <p>This is a first post, just testing does the git integration works with my old
 domain name. Should be all good, and then I post a cool 2019 recap post in the
 folowing days.</p>
+<p>One final test for the flow and good night for tonight!</p>
 <p>Cheers!</p>
 ]]></content>
 		</item>
