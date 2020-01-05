@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Moj, samo moj, blog</title>
-    <link>https://ahmet.com.ba/</link>
-    <description>Recent content on Moj, samo moj, blog</description>
+    <title>Blogs on Moj, samo moj, blog</title>
+    <link>https://ahmet.com.ba/blog/</link>
+    <description>Recent content in Blogs on Moj, samo moj, blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 05 Jan 2020 18:12:09 +0100</lastBuildDate>
     
-	<atom:link href="https://ahmet.com.ba/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ahmet.com.ba/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>https://ahmet.com.ba/blog/2019/</guid>
       <description>2019 Prva sedmica u januaru je skoro pa gotova, a kako bolje započeti godinu nego nastaviti sa blogom? Nisam bio aktivan u zadnjih par godina i ukoliko se iko sjeća onih prijašnjih postova, neka ih zaboravi. Nova godina, novi ja. Pošto mi se treće desetljeće života bliži kraju, nadam se da će ova godina proći bolje nego 2019., a dobar način za ocjenu toga jeste rezime prošle godine.
 Zdravlje Počeo bi sa ovom sekcijom jer postoji ona stara izreka: zdrav čovjek ima dosta želja, bolestan jednu.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ahmet.com.ba/about/</link>
-      <pubDate>Tue, 31 Dec 2019 00:18:58 +0100</pubDate>
-      
-      <guid>https://ahmet.com.ba/about/</guid>
-      <description>Just a small web presentation where I can hold my stuff. This section will be expanded quite soon! (next year)
-Feel free to get in touch with me via Social Media, or at firstnamelastname at gmail.com.</description>
     </item>
     
     <item>

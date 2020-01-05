@@ -1,23 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ahmet Novalić</title>
+    <title>Tags on Moj, samo moj, blog</title>
     <link>https://ahmet.com.ba/tags/</link>
-    <description>Recent content in Tags on Ahmet Novalić</description>
+    <description>Recent content in Tags on Moj, samo moj, blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 31 Dec 2019 00:17:51 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2020 18:12:09 +0100</lastBuildDate>
     
 	<atom:link href="https://ahmet.com.ba/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>untagged</title>
-      <link>https://ahmet.com.ba/tags/untagged/</link>
-      <pubDate>Tue, 31 Dec 2019 00:17:51 +0100</pubDate>
+      <title>2019</title>
+      <link>https://ahmet.com.ba/tags/2019/</link>
+      <pubDate>Sun, 05 Jan 2020 18:12:09 +0100</pubDate>
       
-      <guid>https://ahmet.com.ba/tags/untagged/</guid>
+      <guid>https://ahmet.com.ba/tags/2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ciljevi</title>
+      <link>https://ahmet.com.ba/tags/ciljevi/</link>
+      <pubDate>Sun, 05 Jan 2020 18:12:09 +0100</pubDate>
+      
+      <guid>https://ahmet.com.ba/tags/ciljevi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>posao</title>
+      <link>https://ahmet.com.ba/tags/posao/</link>
+      <pubDate>Sun, 05 Jan 2020 18:12:09 +0100</pubDate>
+      
+      <guid>https://ahmet.com.ba/tags/posao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>putovanja</title>
+      <link>https://ahmet.com.ba/tags/putovanja/</link>
+      <pubDate>Sun, 05 Jan 2020 18:12:09 +0100</pubDate>
+      
+      <guid>https://ahmet.com.ba/tags/putovanja/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zdravlje</title>
+      <link>https://ahmet.com.ba/tags/zdravlje/</link>
+      <pubDate>Sun, 05 Jan 2020 18:12:09 +0100</pubDate>
+      
+      <guid>https://ahmet.com.ba/tags/zdravlje/</guid>
       <description></description>
     </item>
     
