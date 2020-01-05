@@ -1,7 +1,7 @@
 baseURL = "https://ahmet.com.ba"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Ahmet Novalić"
+title = "Moj, samo moj, blog"
 theme = "hermit"
 # enableGitInfo = true
 pygmentsCodefences  = true
@@ -70,8 +70,8 @@ disqusShortname = "ahmetcomba"
 [menu]
 
   [[menu.main]]
-    name = "Posts"
-    url = "posts/"
+    name = "Blog"
+    url = "blog/"
     weight = 10
 
   [[menu.main]]
