@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ahmet.com.ba/zelisbitiprijatelj/</loc>
+    <lastmod>2020-12-25T00:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ahmet.com.ba/</loc>
+    <lastmod>2020-12-25T00:18:58+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ahmet.com.ba/tags/2019/</loc>
     <lastmod>2020-01-05T18:12:09+01:00</lastmod>
   </url>
@@ -19,11 +29,6 @@
   
   <url>
     <loc>https://ahmet.com.ba/tags/ciljevi/</loc>
-    <lastmod>2020-01-05T18:12:09+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ahmet.com.ba/</loc>
     <lastmod>2020-01-05T18:12:09+01:00</lastmod>
   </url>
   
