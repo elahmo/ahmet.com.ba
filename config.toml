@@ -1,4 +1,4 @@
-baseurl = "novalic.xyz"
+baseurl = "https://novalic.xyz"
 languageCode = "en-us"
 theme = ["terminal", "plausible-hugo"]
 paginate = 5

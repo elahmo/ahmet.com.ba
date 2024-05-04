@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on novalic.xyz</title>
-    <link>novalic.xyz/blog/</link>
+    <link>https://novalic.xyz/blog/</link>
     <description>Recent content in Blogs on novalic.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 May 2024 00:17:51 +0100</lastBuildDate><atom:link href="novalic.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 May 2024 00:17:51 +0100</lastBuildDate><atom:link href="https://novalic.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World - 2024</title>
-      <link>novalic.xyz/blog/hello-2024/</link>
+      <link>https://novalic.xyz/blog/hello-2024/</link>
       <pubDate>Sat, 04 May 2024 00:17:51 +0100</pubDate>
       
-      <guid>novalic.xyz/blog/hello-2024/</guid>
+      <guid>https://novalic.xyz/blog/hello-2024/</guid>
       <description>&lt;h1 id=&#34;hello-world-2024&#34;&gt;Hello World 2024&lt;/h1&gt;
 &lt;p&gt;Hey again, now in 2024!&lt;/p&gt;
 &lt;p&gt;Time flies really quickly, who would&amp;rsquo;ve thought that it has been almost five
@@ -33,10 +33,10 @@ see you again here.&lt;/p&gt;</content>
     
     <item>
       <title>Hello World</title>
-      <link>novalic.xyz/blog/hello-world/</link>
+      <link>https://novalic.xyz/blog/hello-world/</link>
       <pubDate>Tue, 31 Dec 2019 00:17:51 +0100</pubDate>
       
-      <guid>novalic.xyz/blog/hello-world/</guid>
+      <guid>https://novalic.xyz/blog/hello-world/</guid>
       <description>Hello Hey,
 This is a first post, just testing does the git integration works with my old domain name. Should be all good, and then I post a cool 2019 recap post in the folowing days.
 One final test for the flow and good night for tonight!

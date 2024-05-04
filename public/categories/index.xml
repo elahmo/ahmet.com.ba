@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on novalic.xyz</title>
-    <link>novalic.xyz/categories/</link>
+    <link>https://novalic.xyz/categories/</link>
     <description>Recent content in Categories on novalic.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="novalic.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://novalic.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
