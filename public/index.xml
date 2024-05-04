@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>novalic.xyz</title>
+    <link>novalic.xyz/</link>
+    <description>Recent content on novalic.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 May 2024 00:17:51 +0100</lastBuildDate><atom:link href="novalic.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World - 2024</title>
+      <link>novalic.xyz/blog/hello-2024/</link>
+      <pubDate>Sat, 04 May 2024 00:17:51 +0100</pubDate>
+      
+      <guid>novalic.xyz/blog/hello-2024/</guid>
+      <description>&lt;h1 id=&#34;hello-world-2024&#34;&gt;Hello World 2024&lt;/h1&gt;
+&lt;p&gt;Hey again, now in 2024!&lt;/p&gt;
+&lt;p&gt;Time flies really quickly, who would&amp;rsquo;ve thought that it has been almost five
+years since I had the intention of resuming my blog and internet presence.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;hello-world-2024&#34;&gt;Hello World 2024&lt;/h1&gt;
+&lt;p&gt;Hey again, now in 2024!&lt;/p&gt;
+&lt;p&gt;Time flies really quickly, who would&amp;rsquo;ve thought that it has been almost five
+years since I had the intention of resuming my blog and internet presence.&lt;/p&gt;
+&lt;p&gt;A lot of things have happened in the meantime, and I am really happy to be back
+tinkering on this website. As with last time, this will be used to share my
+thoughts, projects, and other things that I find interesting.&lt;/p&gt;
+&lt;p&gt;New this time is a cool a proper domain name, novalic.xyx, which has already
+been running for a while with a few backend applications. I will share more
+about those in the coming weeks.&lt;/p&gt;
+&lt;p&gt;In any case, if you end up reading this, thank you for stopping by, I hope to
+see you again here.&lt;/p&gt;</content>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>novalic.xyz/about/</link>
+      <pubDate>Fri, 03 May 2024 16:38:07 +0200</pubDate>
+      
+      <guid>novalic.xyz/about/</guid>
+      <description>Hi there Just a small web presentation where I can hold my stuff. This section will be expanded quite soon! (next year)
+Feel free to get in touch with me via Social Media, or at firstnamelastname at gmail.com.
+If you like a good read, check out my CV.</description>
+      <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
+&lt;p&gt;Just a small web presentation where I can hold my stuff. This section will be
+expanded quite soon! (next year)&lt;/p&gt;
+&lt;p&gt;Feel free to get in touch with me via Social Media, or at firstnamelastname at
+gmail.com.&lt;/p&gt;
+&lt;p&gt;If you like a good read, &lt;a href=&#34;novalic.xyz/CV_Ahmet_Novalic.pdf&#34;&gt;check out my CV&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>novalic.xyz/bs/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0100</pubDate>
+      
+      <guid>novalic.xyz/bs/</guid>
+      <description>Pozz! Dobrodosli dragi gosti!</description>
+      <content>&lt;p&gt;Pozz! Dobrodosli dragi gosti!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>novalic.xyz/projects/</link>
+      <pubDate>Fri, 03 May 2024 00:00:00 +0100</pubDate>
+      
+      <guid>novalic.xyz/projects/</guid>
+      <description>List of things I am working on:
+this will be expanded with actual projects </description>
+      <content>&lt;p&gt;List of things I am working on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;this&lt;/li&gt;
+&lt;li&gt;will&lt;/li&gt;
+&lt;li&gt;be&lt;/li&gt;
+&lt;li&gt;expanded&lt;/li&gt;
+&lt;li&gt;with&lt;/li&gt;
+&lt;li&gt;actual&lt;/li&gt;
+&lt;li&gt;projects&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>novalic.xyz/blog/hello-world/</link>
+      <pubDate>Tue, 31 Dec 2019 00:17:51 +0100</pubDate>
+      
+      <guid>novalic.xyz/blog/hello-world/</guid>
+      <description>Hello Hey,
+This is a first post, just testing does the git integration works with my old domain name. Should be all good, and then I post a cool 2019 recap post in the folowing days.
+One final test for the flow and good night for tonight!
+Cheers!</description>
+      <content>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;
+&lt;p&gt;Hey,&lt;/p&gt;
+&lt;p&gt;This is a first post, just testing does the git integration works with my old
+domain name. Should be all good, and then I post a cool 2019 recap post in the
+folowing days.&lt;/p&gt;
+&lt;p&gt;One final test for the flow and good night for tonight!&lt;/p&gt;
+&lt;p&gt;Cheers!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>novalic.xyz/blog/</loc>
+    <lastmod>2024-05-04T00:17:51+01:00</lastmod>
+  </url><url>
+    <loc>novalic.xyz/blog/hello-2024/</loc>
+    <lastmod>2024-05-04T00:17:51+01:00</lastmod>
+  </url><url>
+    <loc>novalic.xyz/</loc>
+    <lastmod>2024-05-04T00:17:51+01:00</lastmod>
+  </url><url>
+    <loc>novalic.xyz/about/</loc>
+    <lastmod>2024-05-03T16:38:07+02:00</lastmod>
+  </url><url>
+    <loc>novalic.xyz/bs/</loc>
+    <lastmod>2024-05-03T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>novalic.xyz/projects/</loc>
+    <lastmod>2024-05-03T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>novalic.xyz/blog/hello-world/</loc>
+    <lastmod>2019-12-31T00:17:51+01:00</lastmod>
+  </url><url>
+    <loc>novalic.xyz/categories/</loc>
+  </url><url>
+    <loc>novalic.xyz/tags/</loc>
+  </url>
+</urlset>
