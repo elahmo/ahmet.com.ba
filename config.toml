@@ -1,6 +1,6 @@
 baseurl = "novalic.xyz"
 languageCode = "en-us"
-theme = "terminal"
+theme = ["terminal", "plausible-hugo"]
 paginate = 5
 title = "novalic.xyz"
 
@@ -100,3 +100,10 @@ title = "novalic.xyz"
         name = "Projects"
         url = "/projects"
         weight = 2
+
+[params.plausible]
+  enable = true
+  domain = "novalic.xyz"
+  selfhosted_domain = "plausible.novalic.xyz"
+  gitstar = false
+  debug = false

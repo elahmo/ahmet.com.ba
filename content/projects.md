@@ -7,6 +7,10 @@ draft: false
 
 List of things I am working on:
 
-- one
-- two
-- three
+- this
+- will
+- be 
+- expanded 
+- with
+- actual
+- projects
