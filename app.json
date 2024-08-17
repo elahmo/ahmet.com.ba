@@ -1,0 +1,15 @@
+{
+  "name": "static-website",
+  "description": "A static website deployed on Dokku",
+  "healthchecks": {
+    "web": [
+      {
+        "type": "startup",
+        "name": "web check",
+        "description": "Checking if the app responds to HTTP requests",
+        "path": "/index.html",
+        "attempts": 3
+      }
+    ]
+  }
+}
