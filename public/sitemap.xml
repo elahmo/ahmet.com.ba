@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://novalic.xyz/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-05-04T00:17:51+01:00</lastmod>
   </url><url>
-    <loc>https://novalic.xyz/blog/hello-2024/</loc>
+    <loc>http://localhost:1313/blog/hello-2024/</loc>
     <lastmod>2024-05-04T00:17:51+01:00</lastmod>
   </url><url>
-    <loc>https://novalic.xyz/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-05-04T00:17:51+01:00</lastmod>
   </url><url>
-    <loc>https://novalic.xyz/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-05-03T16:38:07+02:00</lastmod>
   </url><url>
-    <loc>https://novalic.xyz/bs/</loc>
+    <loc>http://localhost:1313/bs/</loc>
     <lastmod>2024-05-03T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://novalic.xyz/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-05-03T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://novalic.xyz/blog/hello-world/</loc>
+    <loc>http://localhost:1313/blog/hello-world/</loc>
     <lastmod>2019-12-31T00:17:51+01:00</lastmod>
   </url><url>
-    <loc>https://novalic.xyz/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://novalic.xyz/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
