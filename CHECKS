@@ -1,0 +1,4 @@
+# CHECKS
+WAIT=5
+ATTEMPTS=6
+/index.html  My Static Website
