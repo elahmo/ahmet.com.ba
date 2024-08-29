@@ -85,9 +85,15 @@ folowing days.&lt;/p&gt;
       
       <guid>https://novalic.xyz/projects/</guid>
       <description>List of things I am working on:
+Bukvar A game in which you have to guess a five-letter word, in Bosnian! New word every day! This is inspired by a popular, similar-looking, game.
+Location: elahmo.github.io/bukvar/
 Pravopis A small project to quickly allow readers to check is a word correctly written in Bosnian language.
 Location: pravopis.novalic.xyz</description>
       <content>&lt;p&gt;List of things I am working on:&lt;/p&gt;
+&lt;h1 id=&#34;bukvar&#34;&gt;Bukvar&lt;/h1&gt;
+&lt;p&gt;A game in which you have to guess a five-letter word, in Bosnian! New word every
+day! This is inspired by a popular, similar-looking, game.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;http://elahmo.github.io/bukvar/&#34;&gt;elahmo.github.io/bukvar/&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;pravopis&#34;&gt;Pravopis&lt;/h1&gt;
 &lt;p&gt;A small project to quickly allow readers to check is a word correctly written
 in Bosnian language.&lt;/p&gt;
