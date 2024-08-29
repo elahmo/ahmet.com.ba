@@ -1,16 +1,14 @@
 ---
 title: "Projects"
-date: 2024-05-03T00:00:00+01:00
 draft: false
+readingTime: false
 ---
 
 
 List of things I am working on:
 
-- this
-- will
-- be 
-- expanded 
-- with
-- actual
-- projects
+# Pravopis
+A small project to quickly allow readers to check is a word correctly written
+in Bosnian language.
+
+**Location**: [pravopis.novalic.xyz](https://pravopis.novalic.xyz)

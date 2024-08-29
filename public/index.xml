@@ -59,27 +59,6 @@ gmail.com.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://novalic.xyz/projects/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0100</pubDate>
-      
-      <guid>https://novalic.xyz/projects/</guid>
-      <description>List of things I am working on:
-this will be expanded with actual projects </description>
-      <content>&lt;p&gt;List of things I am working on:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;this&lt;/li&gt;
-&lt;li&gt;will&lt;/li&gt;
-&lt;li&gt;be&lt;/li&gt;
-&lt;li&gt;expanded&lt;/li&gt;
-&lt;li&gt;with&lt;/li&gt;
-&lt;li&gt;actual&lt;/li&gt;
-&lt;li&gt;projects&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
       <title>Hello World</title>
       <link>https://novalic.xyz/blog/hello-world/</link>
       <pubDate>Tue, 31 Dec 2019 00:17:51 +0100</pubDate>
@@ -96,6 +75,23 @@ domain name. Should be all good, and then I post a cool 2019 recap post in the
 folowing days.&lt;/p&gt;
 &lt;p&gt;One final test for the flow and good night for tonight!&lt;/p&gt;
 &lt;p&gt;Cheers!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://novalic.xyz/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://novalic.xyz/projects/</guid>
+      <description>List of things I am working on:
+Pravopis A small project to quickly allow readers to check is a word correctly written in Bosnian language.
+Location: pravopis.novalic.xyz</description>
+      <content>&lt;p&gt;List of things I am working on:&lt;/p&gt;
+&lt;h1 id=&#34;pravopis&#34;&gt;Pravopis&lt;/h1&gt;
+&lt;p&gt;A small project to quickly allow readers to check is a word correctly written
+in Bosnian language.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://pravopis.novalic.xyz&#34;&gt;pravopis.novalic.xyz&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     

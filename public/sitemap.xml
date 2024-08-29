@@ -17,13 +17,12 @@
     <loc>https://novalic.xyz/bs/</loc>
     <lastmod>2024-05-03T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://novalic.xyz/projects/</loc>
-    <lastmod>2024-05-03T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://novalic.xyz/blog/hello-world/</loc>
     <lastmod>2019-12-31T00:17:51+01:00</lastmod>
   </url><url>
     <loc>https://novalic.xyz/categories/</loc>
+  </url><url>
+    <loc>https://novalic.xyz/projects/</loc>
   </url><url>
     <loc>https://novalic.xyz/tags/</loc>
   </url>
