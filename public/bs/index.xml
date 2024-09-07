@@ -13,14 +13,12 @@
       <pubDate>Tue, 09 Jul 2024 16:30:00 +0100</pubDate>
       
       <guid>https://novalic.xyz/bs/blog/hello-2024/</guid>
-      <description>&lt;h2 id=&#34;dobrodošli-dragi-gosti&#34;&gt;Dobrodošli dragi gosti&lt;/h2&gt;
-&lt;p&gt;Pozdrav svima! Konačno sam sjeo i posvetio malo vremena te sredio svoju malu prezentaciju
+      <description>&lt;p&gt;Pozdrav svima! Konačno sam sjeo i posvetio malo vremena te sredio svoju malu prezentaciju
 na internetu.&lt;/p&gt;
 &lt;p&gt;Vrijeme jako brzo leti, neki od vas (desetine vas!) će se sjetiti moje stare stranice
 (&amp;ldquo;Mog, samo mog, bloga&amp;rdquo;). Od toga je prošlo dosta dugo, a ova &amp;ldquo;nova&amp;rdquo; stranica će imati
 malo drugačiji vid sadržaja.&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;dobrodošli-dragi-gosti&#34;&gt;Dobrodošli dragi gosti&lt;/h2&gt;
-&lt;p&gt;Pozdrav svima! Konačno sam sjeo i posvetio malo vremena te sredio svoju malu prezentaciju
+      <content>&lt;p&gt;Pozdrav svima! Konačno sam sjeo i posvetio malo vremena te sredio svoju malu prezentaciju
 na internetu.&lt;/p&gt;
 &lt;p&gt;Vrijeme jako brzo leti, neki od vas (desetine vas!) će se sjetiti moje stare stranice
 (&amp;ldquo;Mog, samo mog, bloga&amp;rdquo;). Od toga je prošlo dosta dugo, a ova &amp;ldquo;nova&amp;rdquo; stranica će imati
@@ -80,13 +78,11 @@ odvojenom vremenu.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://novalic.xyz/bs/about/</guid>
-      <description>Hi there Just a small web presentation where I can hold my stuff. This section will be expanded quite soon!
-Feel free to get in touch with me via Social Media, or at firstnamelastname at gmail.com.</description>
-      <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
-&lt;p&gt;Just a small web presentation where I can hold my stuff. This section will be
-expanded quite soon!&lt;/p&gt;
-&lt;p&gt;Feel free to get in touch with me via Social Media, or at firstnamelastname at
-gmail.com.&lt;/p&gt;
+      <description>Samo mala web prezentacija gdje mogu držati svoje stvari. Ovaj dio će uskoro biti znatno proširen!
+Slobodno me kontaktirajte putem društvenih mreža ili na imeiprezime ludo a gmail.com.</description>
+      <content>&lt;p&gt;Samo mala web prezentacija gdje mogu držati svoje stvari. Ovaj dio će uskoro biti
+znatno proširen!&lt;/p&gt;
+&lt;p&gt;Slobodno me kontaktirajte putem društvenih mreža ili na imeiprezime ludo a gmail.com.&lt;/p&gt;
 </content>
     </item>
     
@@ -96,20 +92,20 @@ gmail.com.&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://novalic.xyz/bs/projects/</guid>
-      <description>List of things I am working on:
-Bukvar A game in which you have to guess a five-letter word, in Bosnian! New word every day! This is inspired by a popular, similar-looking, game.
-Location: elahmo.github.io/bukvar
-Pravopis A small project to quickly allow readers to check is a word correctly written in Bosnian language.
-Location: pravopis.novalic.xyz</description>
-      <content>&lt;p&gt;List of things I am working on:&lt;/p&gt;
+      <description>Lista stvari na kojima radim:
+Bukvar Igra u kojoj morate pogoditi riječ od pet slova, na bosanskom! Nova riječ svaki dan! Ova igra je inspirisana jednom popularnom igrom.
+Lokacija: elahmo.github.io/bukvar
+Pravopis Mali projekat koji omogućava čitaocima da brzo provjere da li je riječ pravilno napisana na bosanskom jeziku.
+Lokacija: pravopis.novalic.xyz</description>
+      <content>&lt;p&gt;Lista stvari na kojima radim:&lt;/p&gt;
 &lt;h1 id=&#34;bukvar&#34;&gt;Bukvar&lt;/h1&gt;
-&lt;p&gt;A game in which you have to guess a five-letter word, in Bosnian! New word every
-day! This is inspired by a popular, similar-looking, game.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;http://elahmo.github.io/bukvar/&#34;&gt;elahmo.github.io/bukvar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Igra u kojoj morate pogoditi riječ od pet slova, na bosanskom! Nova riječ svaki
+dan! Ova igra je inspirisana jednom popularnom igrom.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lokacija&lt;/strong&gt;: &lt;a href=&#34;http://elahmo.github.io/bukvar/&#34;&gt;elahmo.github.io/bukvar&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;pravopis&#34;&gt;Pravopis&lt;/h1&gt;
-&lt;p&gt;A small project to quickly allow readers to check is a word correctly written
-in Bosnian language.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Location&lt;/strong&gt;: &lt;a href=&#34;https://pravopis.novalic.xyz&#34;&gt;pravopis.novalic.xyz&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mali projekat koji omogućava čitaocima da brzo provjere da li je riječ pravilno
+napisana na bosanskom jeziku.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lokacija&lt;/strong&gt;: &lt;a href=&#34;https://pravopis.novalic.xyz&#34;&gt;pravopis.novalic.xyz&lt;/a&gt;&lt;/p&gt;
 </content>
     </item>
     

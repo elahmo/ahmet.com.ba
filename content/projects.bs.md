@@ -5,18 +5,16 @@ readingTime: false
 language: bs
 ---
 
-
-List of things I am working on:
-
+Lista stvari na kojima radim:
 
 # Bukvar
-A game in which you have to guess a five-letter word, in Bosnian! New word every
-day! This is inspired by a popular, similar-looking, game.
+Igra u kojoj morate pogoditi riječ od pet slova, na bosanskom! Nova riječ svaki
+dan! Ova igra je inspirisana jednom popularnom igrom.
 
-**Location**: [elahmo.github.io/bukvar](http://elahmo.github.io/bukvar/)
+**Lokacija**: [elahmo.github.io/bukvar](http://elahmo.github.io/bukvar/)
 
 # Pravopis
-A small project to quickly allow readers to check is a word correctly written
-in Bosnian language.
+Mali projekat koji omogućava čitaocima da brzo provjere da li je riječ pravilno
+napisana na bosanskom jeziku.
 
-**Location**: [pravopis.novalic.xyz](https://pravopis.novalic.xyz)
+**Lokacija**: [pravopis.novalic.xyz](https://pravopis.novalic.xyz)

@@ -5,9 +5,6 @@ draft: false
 toc: false
 ---
 
-
-## Dobrodošli dragi gosti
-
 Pozdrav svima! Konačno sam sjeo i posvetio malo vremena te sredio svoju malu prezentaciju
 na internetu.
 

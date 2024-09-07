@@ -5,10 +5,7 @@ readingTime: false
 language: bs
 ---
 
-# Hi there
+Samo mala web prezentacija gdje mogu držati svoje stvari. Ovaj dio će uskoro biti
+znatno proširen!
 
-Just a small web presentation where I can hold my stuff. This section will be
-expanded quite soon!
-
-Feel free to get in touch with me via Social Media, or at firstnamelastname at
-gmail.com.
+Slobodno me kontaktirajte putem društvenih mreža ili na imeiprezime ludo a gmail.com.
