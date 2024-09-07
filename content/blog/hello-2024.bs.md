@@ -12,13 +12,13 @@ Pozdrav svima! Konačno sam sjeo i posvetio malo vremena te sredio svoju malu pr
 na internetu.
 
 Vrijeme jako brzo leti, neki od vas (desetine vas!) će se sjetiti moje stare stranice
-(Mog, samo mog, bloga). Od toga je prošlo dosta dugo, a ova "nova" stranica će imati
+("Mog, samo mog, bloga"). Od toga je prošlo dosta dugo, a ova "nova" stranica će imati
 malo drugačiji vid sadržaja.
 
  <!--more-->
 
 Blog ne bi bio blog bez obećanja da će od sada pisanje biti redovnije. Tako će biti i ovaj
-put, na ovom blogu, gdje obećavam da će pisanje biti redovnije.*
+put, na ovom blogu, gdje obećavam da će pisanje biti redovnije.[^1]
 
 U svakom slučaju, nove stvari ove godine su sljedeće:
 - sama stranica je u pozadini dosta zanimljivija
@@ -31,7 +31,7 @@ Pa počnimo redom.
 
 O ovome ću napisati poseban post, čisto ako nekome bude zanimljivo i bude htio da
 podesi nešto slično. Ukoliko nekoga ne zanima ništa vezano za tehnologiju, može
-preskočiti ovaj dio.
+preskočiti ovaj odlomak.
 
 Prvi, razlog zašto ovo pišem je nešto što je vidljivo: **nova domena**.
 
@@ -51,7 +51,7 @@ osoba to ne razumije. Tako da će samo pisanje pomoći i meni.
 Slično kao i sa blogovima, na početku bude dosta entuzijazma za projekte sa strane.
 Sa vremenom to spadne i stvari ostanu nedovršene, negdje u tami. **Ovaj put ćemo drugačije!**
 
-Ovome sam posvetio čitav jedan dio u meniju, [projekti](/projects) i tamo možete
+Ovome sam posvetio čitav jedan dio u meniju, [projekti](/bs/projects) i tamo možete
 naći kratak pregled stvarčica koje su dostupne tu, a svakako planiram imati kraći post
 o svakom u bližoj budućnosti. Iz sličnog razloga kao i u paragrafu iznad, s ciljem
 dijeljenja znanja, zanimljivosti, kao i dobrodošlici povratnim informacijama.
@@ -67,7 +67,9 @@ ne priča bosanski, pa će sama početna stranica biti na engleskom jeziku.
 ----
 
 To je to zasad! Prvi post, moram reći da nije ni kratak! Bravo ja! Zahvaljujem na
-odovjenom vremenu.
+odvojenom vremenu.
 
 *P.S. Ne zaboravi, bilo ko da si, bilo gdje da si, znaj jednu stvar: [možeš naučiti bilo
 šta](https://www.youtube.com/watch?v=JC82Il2cjqA)!*
+
+[^1]: Ne mogu baš obećati.
