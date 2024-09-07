@@ -2,40 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/bs/categories/</loc>
+    <loc>https://novalic.xyz/bs/blog/</loc>
+    <lastmod>2024-07-09T16:30:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://novalic.xyz/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="/bs/categories/"
+                href="https://novalic.xyz/bs/blog/"
                 />
   </url><url>
-    <loc>/bs/</loc>
+    <loc>https://novalic.xyz/bs/blog/hello-2024/</loc>
+    <lastmod>2024-07-09T16:30:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://novalic.xyz/blog/hello-2024/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="/bs/"
+                href="https://novalic.xyz/bs/blog/hello-2024/"
                 />
   </url><url>
-    <loc>/bs/tags/</loc>
+    <loc>https://novalic.xyz/bs/</loc>
+    <lastmod>2024-07-09T16:30:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://novalic.xyz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="/bs/tags/"
+                href="https://novalic.xyz/bs/"
+                />
+  </url><url>
+    <loc>https://novalic.xyz/bs/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://novalic.xyz/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://novalic.xyz/bs/categories/"
+                />
+  </url><url>
+    <loc>https://novalic.xyz/bs/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://novalic.xyz/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://novalic.xyz/bs/about/"
+                />
+  </url><url>
+    <loc>https://novalic.xyz/bs/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://novalic.xyz/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://novalic.xyz/bs/projects/"
+                />
+  </url><url>
+    <loc>https://novalic.xyz/bs/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://novalic.xyz/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://novalic.xyz/bs/tags/"
                 />
   </url>
 </urlset>

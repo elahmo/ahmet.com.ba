@@ -32,33 +32,6 @@ see you again here.&lt;/p&gt;</content>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://novalic.xyz/about/</link>
-      <pubDate>Fri, 03 May 2024 16:38:07 +0200</pubDate>
-      
-      <guid>https://novalic.xyz/about/</guid>
-      <description>Hi there Just a small web presentation where I can hold my stuff. This section will be expanded quite soon!
-Feel free to get in touch with me via Social Media, or at firstnamelastname at gmail.com.</description>
-      <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
-&lt;p&gt;Just a small web presentation where I can hold my stuff. This section will be
-expanded quite soon!&lt;/p&gt;
-&lt;p&gt;Feel free to get in touch with me via Social Media, or at firstnamelastname at
-gmail.com.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Index</title>
-      <link>https://novalic.xyz/bs/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0100</pubDate>
-      
-      <guid>https://novalic.xyz/bs/</guid>
-      <description>Pozz! Dobrodosli dragi gosti!</description>
-      <content>&lt;p&gt;Pozz! Dobrodosli dragi gosti!&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>Hello World</title>
       <link>https://novalic.xyz/blog/hello-world/</link>
       <pubDate>Tue, 31 Dec 2019 00:17:51 +0100</pubDate>
@@ -75,6 +48,22 @@ domain name. Should be all good, and then I post a cool 2019 recap post in the
 folowing days.&lt;/p&gt;
 &lt;p&gt;One final test for the flow and good night for tonight!&lt;/p&gt;
 &lt;p&gt;Cheers!&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://novalic.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://novalic.xyz/about/</guid>
+      <description>Hi there Just a small web presentation where I can hold my stuff. This section will be expanded quite soon!
+Feel free to get in touch with me via Social Media, or at firstnamelastname at gmail.com.</description>
+      <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
+&lt;p&gt;Just a small web presentation where I can hold my stuff. This section will be
+expanded quite soon!&lt;/p&gt;
+&lt;p&gt;Feel free to get in touch with me via Social Media, or at firstnamelastname at
+gmail.com.&lt;/p&gt;
 </content>
     </item>
     

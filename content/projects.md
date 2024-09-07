@@ -2,6 +2,7 @@
 title: "Projects"
 draft: false
 readingTime: false
+language: en
 ---
 
 
