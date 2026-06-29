@@ -142,6 +142,46 @@ title = "novalic.xyz"
         url = "/bs/projects"
         weight = 2
 
+    [languages.de]
+        languageName = "Deutsch"
+    [languages.de.params]
+        languageName = "Deutsch"
+        title = "novalic.xyz"
+        subtitle = "Mein kleines Zuhause im Internet"
+        owner = ""
+        keywords = ""
+        copyright = ""
+        menuMore = "Mehr anzeigen"
+        readMore = "Weiterlesen"
+        readOtherPosts = "Andere Beiträge lesen"
+        newerPosts = "Neuere Beiträge"
+        olderPosts = "Ältere Beiträge"
+        missingContentMessage = "Seite nicht gefunden..."
+        missingBackButtonLabel = "Zurück zur Startseite"
+        minuteReadingTime = "Min. Lesezeit"
+        words = "Wörter"
+
+    [languages.de.params.logo]
+        logoText = "novalic.xyz"
+        logoHomeLink = "/de/"
+
+    [languages.de.menu]
+        [[languages.de.menu.main]]
+        identifier = "home"
+        name = "Startseite"
+        url = "/de/"
+        weight = 1
+        [[languages.de.menu.main]]
+        identifier = "about"
+        name = "Über mich"
+        url = "/de/about"
+        weight = 99
+        [[languages.de.menu.main]]
+        identifier = "projects"
+        name = "Projekte"
+        url = "/de/projects"
+        weight = 2
+
 [params.plausible]
   enable = true
   domain = "novalic.xyz"

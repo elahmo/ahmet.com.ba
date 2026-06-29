@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>novalic.xyz</title>
+    <link>http://localhost:1313/de/</link>
+    <description>Recent content on novalic.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language><atom:link href="http://localhost:1313/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projekte</title>
+      <link>http://localhost:1313/de/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/projects/</guid>
+      <description>Eine Liste der Dinge, an denen ich arbeite:
+Bukvar Ein Spiel, bei dem man ein Wort aus fünf Buchstaben erraten muss – auf Bosnisch! Jeden Tag ein neues Wort! Inspiriert von einem beliebten, ähnlich aussehenden Spiel.
+Link: elahmo.github.io/bukvar
+Pravopis Ein kleines Projekt, mit dem Leser schnell überprüfen können, ob ein Wort in der bosnischen Sprache korrekt geschrieben ist.
+Link: pravopis.novalic.xyz</description>
+      <content>&lt;p&gt;Eine Liste der Dinge, an denen ich arbeite:&lt;/p&gt;
+&lt;h1 id=&#34;bukvar&#34;&gt;Bukvar&lt;/h1&gt;
+&lt;p&gt;Ein Spiel, bei dem man ein Wort aus fünf Buchstaben erraten muss – auf Bosnisch!
+Jeden Tag ein neues Wort! Inspiriert von einem beliebten, ähnlich aussehenden
+Spiel.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;http://elahmo.github.io/bukvar/&#34;&gt;elahmo.github.io/bukvar&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;pravopis&#34;&gt;Pravopis&lt;/h1&gt;
+&lt;p&gt;Ein kleines Projekt, mit dem Leser schnell überprüfen können, ob ein Wort in der
+bosnischen Sprache korrekt geschrieben ist.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Link&lt;/strong&gt;: &lt;a href=&#34;https://pravopis.novalic.xyz&#34;&gt;pravopis.novalic.xyz&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Über mich</title>
+      <link>http://localhost:1313/de/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/about/</guid>
+      <description>Hallo Nur eine kleine Webpräsenz, auf der ich meine Sachen ablegen kann. Dieser Bereich wird schon bald deutlich erweitert!
+Du kannst mich gerne über soziale Medien kontaktieren oder unter vornamenachname at gmail.com.</description>
+      <content>&lt;h1 id=&#34;hallo&#34;&gt;Hallo&lt;/h1&gt;
+&lt;p&gt;Nur eine kleine Webpräsenz, auf der ich meine Sachen ablegen kann. Dieser Bereich
+wird schon bald deutlich erweitert!&lt;/p&gt;
+&lt;p&gt;Du kannst mich gerne über soziale Medien kontaktieren oder unter vornamenachname at
+gmail.com.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

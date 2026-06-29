@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>novalic.xyz</title>
-    <link>https://novalic.xyz/bs/</link>
+    <link>http://localhost:1313/bs/</link>
     <description>Recent content on novalic.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bs</language>
-    <lastBuildDate>Tue, 09 Jul 2024 16:30:00 +0100</lastBuildDate><atom:link href="https://novalic.xyz/bs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Jul 2024 16:30:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/bs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dobrodošli dragi gosti</title>
-      <link>https://novalic.xyz/bs/blog/hello-2024/</link>
+      <link>http://localhost:1313/bs/blog/hello-2024/</link>
       <pubDate>Tue, 09 Jul 2024 16:30:00 +0100</pubDate>
       
-      <guid>https://novalic.xyz/bs/blog/hello-2024/</guid>
+      <guid>http://localhost:1313/bs/blog/hello-2024/</guid>
       <description>&lt;p&gt;Pozdrav svima! Konačno sam sjeo i posvetio malo vremena te sredio svoju malu prezentaciju
 na internetu.&lt;/p&gt;
 &lt;p&gt;Vrijeme jako brzo leti, neki od vas (desetine vas!) će se sjetiti moje stare stranice
@@ -48,7 +48,7 @@ osoba to ne razumije. Tako da će samo pisanje pomoći i meni.&lt;/p&gt;
 &lt;h4 id=&#34;projekti&#34;&gt;Projekti&lt;/h4&gt;
 &lt;p&gt;Slično kao i sa blogovima, na početku bude dosta entuzijazma za projekte sa strane.
 Sa vremenom to spadne i stvari ostanu nedovršene, negdje u tami. &lt;strong&gt;Ovaj put ćemo drugačije!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Ovome sam posvetio čitav jedan dio u meniju, &lt;a href=&#34;https://novalic.xyz/bs/projects&#34;&gt;projekti&lt;/a&gt; i tamo možete
+&lt;p&gt;Ovome sam posvetio čitav jedan dio u meniju, &lt;a href=&#34;http://localhost:1313/bs/projects&#34;&gt;projekti&lt;/a&gt; i tamo možete
 naći kratak pregled stvarčica koje su dostupne tu, a svakako planiram imati kraći post
 o svakom u bližoj budućnosti. Iz sličnog razloga kao i u paragrafu iznad, s ciljem
 dijeljenja znanja, zanimljivosti, kao i dobrodošlici povratnim informacijama.&lt;/p&gt;
@@ -74,10 +74,10 @@ odvojenom vremenu.&lt;/p&gt;
     
     <item>
       <title>O meni</title>
-      <link>https://novalic.xyz/bs/about/</link>
+      <link>http://localhost:1313/bs/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://novalic.xyz/bs/about/</guid>
+      <guid>http://localhost:1313/bs/about/</guid>
       <description>Samo mala web prezentacija gdje mogu držati svoje stvari. Ovaj dio će uskoro biti znatno proširen!
 Slobodno me kontaktirajte putem društvenih mreža ili na imeiprezime ludo a gmail.com.</description>
       <content>&lt;p&gt;Samo mala web prezentacija gdje mogu držati svoje stvari. Ovaj dio će uskoro biti
@@ -88,10 +88,10 @@ znatno proširen!&lt;/p&gt;
     
     <item>
       <title>Projekti</title>
-      <link>https://novalic.xyz/bs/projects/</link>
+      <link>http://localhost:1313/bs/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://novalic.xyz/bs/projects/</guid>
+      <guid>http://localhost:1313/bs/projects/</guid>
       <description>Lista stvari na kojima radim:
 Bukvar Igra u kojoj morate pogoditi riječ od pet slova, na bosanskom! Nova riječ svaki dan! Ova igra je inspirisana jednom popularnom igrom.
 Lokacija: elahmo.github.io/bukvar
