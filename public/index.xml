@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>novalic.xyz</title>
-    <link>http://localhost:1313/</link>
+    <link>https://novalic.xyz/</link>
     <description>Recent content on novalic.xyz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 May 2024 00:17:51 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 May 2024 00:17:51 +0100</lastBuildDate><atom:link href="https://novalic.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World - 2024</title>
-      <link>http://localhost:1313/blog/hello-2024/</link>
+      <link>https://novalic.xyz/blog/hello-2024/</link>
       <pubDate>Sat, 04 May 2024 00:17:51 +0100</pubDate>
       
-      <guid>http://localhost:1313/blog/hello-2024/</guid>
+      <guid>https://novalic.xyz/blog/hello-2024/</guid>
       <description>&lt;h1 id=&#34;hello-world-2024&#34;&gt;Hello World 2024&lt;/h1&gt;
 &lt;p&gt;Hey again, now in 2024!&lt;/p&gt;
 &lt;p&gt;Time flies really quickly, who would&amp;rsquo;ve thought that it has been almost five
@@ -33,10 +33,10 @@ see you again here.&lt;/p&gt;</content>
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/blog/hello-world/</link>
+      <link>https://novalic.xyz/blog/hello-world/</link>
       <pubDate>Tue, 31 Dec 2019 00:17:51 +0100</pubDate>
       
-      <guid>http://localhost:1313/blog/hello-world/</guid>
+      <guid>https://novalic.xyz/blog/hello-world/</guid>
       <description>Hello Hey,
 This is a first post, just testing does the git integration works with my old domain name. Should be all good, and then I post a cool 2019 recap post in the folowing days.
 One final test for the flow and good night for tonight!
@@ -53,10 +53,10 @@ folowing days.&lt;/p&gt;
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://novalic.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://novalic.xyz/about/</guid>
       <description>Hi there Just a small web presentation where I can hold my stuff. This section will be expanded quite soon!
 Feel free to get in touch with me via Social Media, or at firstnamelastname at gmail.com.</description>
       <content>&lt;h1 id=&#34;hi-there&#34;&gt;Hi there&lt;/h1&gt;
@@ -69,10 +69,10 @@ gmail.com.&lt;/p&gt;
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://novalic.xyz/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://novalic.xyz/projects/</guid>
       <description>List of things I am working on:
 Bukvar A game in which you have to guess a five-letter word, in Bosnian! New word every day! This is inspired by a popular, similar-looking, game.
 Location: elahmo.github.io/bukvar

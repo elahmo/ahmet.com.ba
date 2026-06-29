@@ -2,116 +2,116 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/bs/blog/</loc>
+    <loc>https://novalic.xyz/bs/blog/</loc>
     <lastmod>2024-07-09T16:30:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="bs"
-                href="http://localhost:1313/bs/blog/"
+                hreflang="en"
+                href="https://novalic.xyz/blog/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blog/"
+                hreflang="bs"
+                href="https://novalic.xyz/bs/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/bs/blog/hello-2024/</loc>
+    <loc>https://novalic.xyz/bs/blog/hello-2024/</loc>
     <lastmod>2024-07-09T16:30:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="bs"
-                href="http://localhost:1313/bs/blog/hello-2024/"
+                hreflang="en"
+                href="https://novalic.xyz/blog/hello-2024/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blog/hello-2024/"
+                hreflang="bs"
+                href="https://novalic.xyz/bs/blog/hello-2024/"
                 />
   </url><url>
-    <loc>http://localhost:1313/bs/</loc>
+    <loc>https://novalic.xyz/bs/</loc>
     <lastmod>2024-07-09T16:30:00+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="bs"
-                href="http://localhost:1313/bs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/"
+                hreflang="en"
+                href="https://novalic.xyz/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/"
+                href="https://novalic.xyz/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://novalic.xyz/bs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/bs/categories/</loc>
+    <loc>https://novalic.xyz/bs/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/categories/"
+                hreflang="en"
+                href="https://novalic.xyz/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/categories/"
+                hreflang="de"
+                href="https://novalic.xyz/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="http://localhost:1313/bs/categories/"
+                href="https://novalic.xyz/bs/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/bs/about/</loc>
+    <loc>https://novalic.xyz/bs/about/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bs"
-                href="http://localhost:1313/bs/about/"
+                hreflang="en"
+                href="https://novalic.xyz/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/about/"
+                href="https://novalic.xyz/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://novalic.xyz/bs/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/bs/projects/</loc>
+    <loc>https://novalic.xyz/bs/projects/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/projects/"
+                hreflang="en"
+                href="https://novalic.xyz/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/projects/"
+                href="https://novalic.xyz/de/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bs"
-                href="http://localhost:1313/bs/projects/"
+                href="https://novalic.xyz/bs/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/bs/tags/</loc>
+    <loc>https://novalic.xyz/bs/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="bs"
-                href="http://localhost:1313/bs/tags/"
+                hreflang="en"
+                href="https://novalic.xyz/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/"
+                href="https://novalic.xyz/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/tags/"
+                hreflang="bs"
+                href="https://novalic.xyz/bs/tags/"
                 />
   </url>
 </urlset>

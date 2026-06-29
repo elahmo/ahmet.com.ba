@@ -9,6 +9,9 @@ title = "novalic.xyz"
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "blog"
 
+  # GitHub profile rendered as an icon in the header (shared across all languages)
+  github = "https://github.com/elahmo"
+
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "green"
 
