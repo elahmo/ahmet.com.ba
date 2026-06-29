@@ -2,23 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://novalic.xyz/de/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://novalic.xyz/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bs"
-                href="https://novalic.xyz/bs/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://novalic.xyz/de/categories/"
-                />
-  </url><url>
     <loc>https://novalic.xyz/de/</loc>
     <xhtml:link
                 rel="alternate"
@@ -34,6 +17,23 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://novalic.xyz/de/"
+                />
+  </url><url>
+    <loc>https://novalic.xyz/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://novalic.xyz/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bs"
+                href="https://novalic.xyz/bs/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://novalic.xyz/de/categories/"
                 />
   </url><url>
     <loc>https://novalic.xyz/de/projects/</loc>
